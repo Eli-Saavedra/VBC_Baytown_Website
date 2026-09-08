@@ -93,8 +93,20 @@
 	padding: 10px 20px;
 }
 
+
 .whatToExpect {
 	font-size: 1.5rem;
+}
+
+
+.underline_ {
+	width: 10%;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	height: 3px;
+	background-color: white;
 }
 
 .clipped-circle {
@@ -337,6 +349,13 @@ h4.footerText {
 	color: #D4AF37;
 }
 
+.title_for_sections {
+	font-size: 80px;
+	margin-bottom: 20px;
+	font-style: italic;
+	font-weight: 10000;
+	padding: 5px;
+}
 
 /* Dropdown Button */
 .dropbtn {

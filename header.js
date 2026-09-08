@@ -20,7 +20,7 @@ headerTemplate.innerHTML = `
 					<button class="dropbtn">Services</button>
 					<div class="dropdown-content">
 						<a href="/sub_pages/services/what_to_expect.html">What To Expect</a>
-						<a href="/sub_pages/services/times_location.html">Times & Location</a>
+						<a href="/sub_pages/services/what_to_expect.html#section-location">Times &amp Location</a>
 					</div>
 				</div>
 
