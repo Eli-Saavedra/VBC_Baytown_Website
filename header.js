@@ -37,8 +37,8 @@ headerTemplate.innerHTML = `
 				<div class="dropdown">
 					<button class="dropbtn">Media</button>
 					<div class="dropdown-content">
-						<a href="/sub_pages/media/sermons.html">Sermons</a>
-						<a href="/sub_pages/media/livestream.html">Livestreams</a>
+						<a href="https://www.youtube.com/@vbcbaytown/videos" target="_blank">Sermons</a>
+						<a href="https://www.youtube.com/@vbcbaytown/streams" target="_blank">Livestreams</a>
 						<a href="/sub_pages/media/resources.html">Resources</a>
 					</div>
 				</div>
