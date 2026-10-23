@@ -43,7 +43,12 @@ headerTemplate.innerHTML = `
 					</div>
 				</div>
 
-				<a href="/default.html#give">Give</a>
+
+				<div class="dropdown">
+					<button type="button" onclick="window.location.href='/default.html#give';" class="dropbtn" style="cursor: pointer;">Give</button>
+					</div>
+				</div>
+
 			</nav>
 		</div>
 	</header>
