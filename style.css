@@ -4,6 +4,52 @@
 	box-sizing: border-box;
 }
 
+#vbc-pod-button,
+#everydaytruth-pod-button,
+#scottpauly-pod-button,
+#dailyintheword-pod-button {
+	border: solid black 3px;
+	border-radius: 20px;
+	color: white;
+	text-align: center;
+	background-color: black;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 4px 2px;
+	cursor: pointer;
+	padding: 10px 24px;
+}
+
+
+#everydaytruth-pod-button:hover {
+	background: linear-gradient(to right, #928b34, #6a704a);
+	color: #000000;
+}
+
+#vbc-pod-button:hover {
+	background: linear-gradient(to right, #faa703, #c93e1a);
+	color: #000000;
+}
+
+#scottpauly-pod-button:hover {
+	background: linear-gradient(to right, #84a6d6, #2b3d57);
+	color: #000000;
+}
+
+#dailyintheword-pod-button:hover {
+	background: linear-gradient(to right, #f5cd53, #474747);
+	color: #000000;
+}
+
+
+
+
+.resource-link {
+	text-decoration: none;
+	color: white;
+
+}
+
 .our-purpose {
 	background: linear-gradient(to right, #1d4ed8, #0f172a);
 	color: white;
